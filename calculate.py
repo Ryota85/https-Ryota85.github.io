@@ -7,7 +7,6 @@ Please type in math operation you would like to complete:
 ''')
 number_1 = int(input('Enter your first number:'))
 number_2 = int(input('Enter your second number:'))
-#Addition(足し算)
 if operation== '+':
     print('{}+{}='.format(number_1,number_2))
     print(number_1+number_2)
